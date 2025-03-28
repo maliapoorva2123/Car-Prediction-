@@ -1,4 +1,4 @@
-Car Price Prediction Model
+**Car Price Prediction Model**
 
 Developed a **Car Price Prediction Model** using **Random Forest Regression**, leveraging a dataset from Kaggle that includes essential car attributes such as **brand, model, year, engine type, mileage, fuel type, transmission, and price**.  
 
